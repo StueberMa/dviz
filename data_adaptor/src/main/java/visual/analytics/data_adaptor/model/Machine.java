@@ -26,7 +26,7 @@ public class Machine {
 	//private LogEntry> lastMainQuality;
 	
 	/**
-	 * Constructor.
+	 * Constructor
 	 */
 	public Machine(){
 		
