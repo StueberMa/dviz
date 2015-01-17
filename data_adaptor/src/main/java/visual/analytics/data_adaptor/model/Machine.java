@@ -2,7 +2,7 @@ package visual.analytics.data_adaptor.model;
 
 
 /**
- * Class Machine for log conversion
+ * Class Machine for log conversion.
  * 
  * @author Data Visualization@University Mannheim
  * @version 16.01.2015

@@ -6,7 +6,7 @@ import java.util.List;
 import org.ektorp.support.CouchDbDocument;
 
 /**
- * Class MachineCollection for log conversion
+ * Class MachineCollection for log conversion.
  * 
  * @author Data Visualization@University Mannheim
  * @version 16.01.2015

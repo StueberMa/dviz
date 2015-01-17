@@ -22,7 +22,7 @@ import com.google.gson.Gson;
 import com.google.gson.GsonBuilder;
 
 /**
- * Class PoolWorker to process single file
+ * Class PoolWorker to process single file.
  * 
  * @author Data Visualization@University Mannheim
  * @version 15.01.2015

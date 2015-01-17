@@ -3,7 +3,7 @@ package visual.analytics.data_adaptor.model;
 import com.fasterxml.jackson.annotation.JsonPropertyOrder;
 
 /**
- * Class LogEntry for Conversion
+ * Class LogEntry for Conversion.
  * 
  * @author Data Visualization@University Mannheim
  * @version 15.01.2015
