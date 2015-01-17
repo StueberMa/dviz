@@ -10,7 +10,7 @@ import org.ektorp.http.StdHttpClient;
 import org.ektorp.impl.StdCouchDbInstance;
 
 /**
- * Class to read csv files, convert to JSON and store in MongoDB
+ * Class to read csv-files, convert to JSON and store in MongoDB
  * 
  * @author Data Visualization@University Mannheim
  * @version 15.01.2015
