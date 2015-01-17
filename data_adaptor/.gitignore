@@ -1,0 +1,8 @@
+# Additional files and directories to ignore #
+# @version: 17.01.2015 #
+# @author: M. Stüber
+.classpath
+.DS_Store
+.project
+/target/
+/.settings/

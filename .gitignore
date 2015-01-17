@@ -10,3 +10,17 @@
 
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
+
+# Additional files and directories to ignore #
+# @version: 17.01.2015 #
+# @author: M. Stüber
+.DS_Store
+/data/
+/.git/
+/.metadata/
+/RemoteSystemsTempFiles/
+/Servers/
+
+
+
+
