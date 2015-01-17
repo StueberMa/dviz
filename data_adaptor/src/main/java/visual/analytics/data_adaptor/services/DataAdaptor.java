@@ -39,7 +39,7 @@ public class DataAdaptor {
 		CouchDbConnector couchDB = null;
 		WorkQueue queue = null;
 
-		// connect to CouchDB
+		// connect to couchDB
 		try {
 			System.out.println("Info: Opening connection to couchDB");
 			httpClient = new StdHttpClient.Builder().build();
