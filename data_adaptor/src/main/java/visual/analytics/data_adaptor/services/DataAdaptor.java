@@ -10,7 +10,7 @@ import org.ektorp.http.StdHttpClient;
 import org.ektorp.impl.StdCouchDbInstance;
 
 /**
- * Class to read csv files, convert to JSON and store in MongoDB
+ * Class to read csv-files, convert to JSON and store in MongoDB
  * 
  * @author Data Visualization@University Mannheim
  * @version 15.01.2015
@@ -25,7 +25,7 @@ public class DataAdaptor {
 			+ "/../data/json";
 
 	/**
-	 * MAIN method
+	 * Main method
 	 * 
 	 * @param args
 	 */
@@ -39,7 +39,7 @@ public class DataAdaptor {
 		CouchDbConnector couchDB = null;
 		WorkQueue queue = null;
 
-		// connect to CouchDB
+		// connect to couchDB
 		try {
 			System.out.println("Info: Opening connection to couchDB");
 			httpClient = new StdHttpClient.Builder().build();
