@@ -4,7 +4,7 @@ import org.ektorp.CouchDbConnector;
 import org.ektorp.support.CouchDbRepositorySupport;
 
 /**
- * Class to persist LogFile to CouchDB.
+ * Class to persist LogFile to CouchDB
  * 
  * @author Data Visualization@University Mannheim
  * @version 16.01.2015
