@@ -29,7 +29,7 @@ public class WorkQueue {
 	private int runningProcesses;
 
 	/**
-	 * constructor
+	 * Constructor
 	 */
 	public WorkQueue(int runningProcesses, HttpClient httpClient,
 			CouchDbConnector couchDB) {
