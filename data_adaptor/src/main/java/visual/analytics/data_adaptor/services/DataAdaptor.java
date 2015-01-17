@@ -25,7 +25,7 @@ public class DataAdaptor {
 			+ "/../data/json";
 
 	/**
-	 * Main method 123
+	 * Main method
 	 * 
 	 * @param args
 	 */
