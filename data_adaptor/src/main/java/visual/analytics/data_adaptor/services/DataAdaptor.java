@@ -47,7 +47,7 @@ public class DataAdaptor {
 			couchDB = dbInstance.createConnector("visual_analytics", true);
 		} catch (DbAccessException e) {
 			System.out
-					.println("WARNING: Connection to CouchDB failed; Storing data as file");
+					.println("WARNING: Connection to couchDB failed; Storing data as file");
 		}
 
 		// create queue
